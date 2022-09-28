@@ -1,0 +1,16 @@
+C:\Users\student\Desktop\11\OS_Practice1\bin\Debug\Gubanovach.exe.config
+C:\Users\student\Desktop\11\OS_Practice1\bin\Debug\Gubanovach.exe
+C:\Users\student\Desktop\11\OS_Practice1\bin\Debug\Gubanovach.pdb
+C:\Users\student\Desktop\11\OS_Practice1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\student\Desktop\11\OS_Practice1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\student\Desktop\11\OS_Practice1\bin\Debug\System.Text.Json.dll
+C:\Users\student\Desktop\11\OS_Practice1\bin\Debug\System.Memory.dll
+C:\Users\student\Desktop\11\OS_Practice1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\student\Desktop\11\OS_Practice1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\student\Desktop\11\OS_Practice1\bin\Debug\System.Buffers.dll
+C:\Users\student\Desktop\11\OS_Practice1\obj\Debug\OS_Practice1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\11\OS_Practice1\obj\Debug\OS_Practice1.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\11\OS_Practice1\obj\Debug\OS_Practice1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\11\OS_Practice1\obj\Debug\OS_Practice1.csproj.CopyComplete
+C:\Users\student\Desktop\11\OS_Practice1\obj\Debug\Gubanovach.exe
+C:\Users\student\Desktop\11\OS_Practice1\obj\Debug\Gubanovach.pdb
